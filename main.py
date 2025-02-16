@@ -3,7 +3,7 @@ import os
 from telebot import types
 
 # Укажите ID администратора
-ADMIN_ID = 269717182
+ADMIN_ID = 1904235145
 
 # Создаем экземпляр бота с вашим токеном
 bot = telebot.TeleBot('7233663080:AAHcxhkcVH0xcdp6iKZg8F9bezVuT3cBrGQ')
